@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://depomytymoped.github.io/sitemap.xml
