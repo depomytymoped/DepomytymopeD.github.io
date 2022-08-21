@@ -1,4 +1,4 @@
-baseURL: http://validator.dpmpd.tech/
+baseURL: https://depomytymoped.github.io/
 languageCode: en-us
 title: Depomytymoped 🛵 validator
 theme: "PaperMod"
